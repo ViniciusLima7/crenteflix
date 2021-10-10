@@ -8,3 +8,9 @@ Repositório criado, de front-end de uma streaming de filmes cristãos
 - CSS
 - Jquery
 - JavaScript
+
+## Projeto
+
+<h1 align="center">
+    <img alt="Letmeask" title="Projeto" src="https://github.com/ViniciusLima7/crenteflix/blob/master/img/github.png" />
+</h1>
