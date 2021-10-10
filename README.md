@@ -12,5 +12,5 @@ Repositório criado, de front-end de uma streaming de filmes cristãos
 ## Projeto
 
 <h1 align="center">
-    <img alt="Letmeask" title="Projeto" src="https://github.com/ViniciusLima7/crenteflix/blob/master/img/github.png" />
+    <img alt="CRENTEFLIZ" title="Projeto" src="https://github.com/ViniciusLima7/crenteflix/blob/master/img/github.png" />
 </h1>
